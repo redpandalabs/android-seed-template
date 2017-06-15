@@ -1,2 +1,1 @@
-# android-seed-template
-Android Project template using Rx, Retrofit and Espresso
+# presenter-first-example-rxjava
